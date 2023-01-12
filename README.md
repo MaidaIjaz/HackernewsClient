@@ -5,3 +5,5 @@
 * Introduced pagination in our application
 * Implemented Client-side caching to improve our application performance
 * Introduced error-handling in our application
+* Used Jest to write snapshot tests for components
+* Used Enzyme to write unit tests for components
